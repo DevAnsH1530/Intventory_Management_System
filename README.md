@@ -2,7 +2,7 @@
 ## Project Description
 The Inventory Management System is a Java SE 8 based application designed to help
 businesses efficiently manage their inventory. This system utilizes Java's Collections framework,
-multithreading, and robust exception handling for improved performance and reliability.
+Multithreading, and Exception Eandling for improved performance and reliability.
 ### Key Features
 1. **Product Management:** Add, edit, and delete products in the inventory. Each product
 includes details such as ID, name, price, and quantity on hand.
