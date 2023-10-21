@@ -20,11 +20,11 @@ and inventory management.
 - **Exception Handling:** Java's exception handling mechanisms for error handling.
 ### How to Run the Application 
 1. Clone this repository to your local machine.
-2. Compile the Java code: `javac InventoryManagementSystem.java`.
-3. Run the application: `java InventoryManagementSystem`.
+2. Compile the Java code: `javac WareSavvy.java`.
+3. Run the application: `java WareSavvy`.
 ### Directory Structure 
 
-- `InventoryManagementSystem.java`: Main application code.
+- `WareSavvy.java`: Main application code.
 - `Product.java`: Class definition for the Product.
 - `ProductNotFoundException.java`: Custom exception class for product-related errors.
 ### Usage 
